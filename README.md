@@ -1,4 +1,4 @@
 Corewar
 =======
 
-Corewar
+42
